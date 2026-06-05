@@ -63,6 +63,7 @@ Customer transaction history
 Spending summaries (future enhancement ready)
 
 DB create Query
+
 CREATE TABLE transactions (
     id BIGINT NOT NULL AUTO_INCREMENT,
     customer_id BIGINT DEFAULT NULL,
